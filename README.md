@@ -1,2 +1,2 @@
 # GuessGame
-GuessGame
+NumberGuessingGame
